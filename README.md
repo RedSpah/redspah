@@ -1,4 +1,9 @@
-### Hi there 👋
+### Jill of all things, master of one or two
+- she/her
+
+Professional C++ programmer, wannabe writer, amateur game designer, Pokémon fan
+
+Find out more [at my personal webiste.](https://redspah.github.io)
 
 <!--
 **RedSpah/redspah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
